@@ -34,7 +34,7 @@ cvit_deepfake_detection_ep_50.pth - Model weight for CViT. <br />
 cvit2_deepfake_detection_ep_50.pth - Model weight for CViT2. <br />
 
 ### Predict CViT 
-[Huggingface](https://huggingface.co/datasets/Deressa/cvit/tree/main)
+[This one](https://huggingface.co/datasets/Deressa/cvit/tree/main)
 Download the pretrained model from [Huggingface](https://huggingface.co/datasets/Deressa/cvit) and save it in the `weight` folder.
 
 ##### CViT2 - trained on 5 datasets including DFDC
